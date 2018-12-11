@@ -221,7 +221,7 @@ repositories:
     version: master
   ros2/rosidl_typesupport_opendds:
     type: git
-    url: https://github.com/ros2/rosidl_typesupport_opendds.git
+    url: https://github.com/jwillemsen/rosidl_typesupport_opendds.git
     version: master
   ros2/rosidl_typesupport_opensplice:
     type: git
