@@ -174,7 +174,7 @@ repositories:
   ros2/rmw_opendds:
     type: git
     url: https://github.com/jwillemsen/rmw_opendds.git
-    version: master
+    version: jwi-openddsros2
   ros2/rmw_opensplice:
     type: git
     url: https://github.com/ros2/rmw_opensplice.git
